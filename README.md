@@ -13,9 +13,3 @@
 
 **Скачать редактор как у меня можно тут:**  
 **https://code.visualstudio.com/**
-
-
----
-Подписывайся:
-- **telegram:** **[@html_mentor](https://t.me/html_mentor)**
-- **instagram:** **[@html.mentor](https://www.instagram.com/html.mentor)**
